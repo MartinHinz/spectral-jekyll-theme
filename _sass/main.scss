@@ -1482,6 +1482,7 @@
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		padding-bottom: 10em;
 
 		h2 {
 			@include vendor('transform', 'scale(1)');
